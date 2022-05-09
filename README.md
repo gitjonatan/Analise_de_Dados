@@ -8,5 +8,4 @@
   
   
 ## Data
-<p> As bases de dados utilizadas nos notebooks, em sua maioria, foram adquiridas no [Kaggle](https://www.kaggle.com/datasets)
-   [Documentação](https://spark.apache.org/)
+<p> As bases de dados utilizadas nos notebooks, em sua maioria, foram adquiridas no [Documentação](https://spark.apache.org/)
