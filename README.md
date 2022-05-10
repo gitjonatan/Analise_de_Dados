@@ -7,8 +7,8 @@
 <p> A análise de dados é um processo de inspeção, limpeza, transformação e modelagem de dados com o objetivo de descobrir informações úteis, informar conclusões e apoiar a tomada de decisões.
   
 **Este repositório contém estudos e projetos envolvendo a Análise de Dados.**
-São notebooks feitos utilizando a linguagem Python aplicando os princípios básicos da análises, como a exploração, tratamento e visualização dos dados.
-<p>Além disso, são aplicados algoritmos de machine learning e a "raspagem de dados" através da técnica de WebScraping. 
+<p>São notebooks feitos utilizando a linguagem Python aplicando os princípios básicos da análises, como a exploração, tratamento e visualização dos dados.
+Além disso, são aplicados algoritmos de machine learning e a "raspagem de dados" através da técnica de WebScraping. 
 
 
   
