@@ -6,6 +6,9 @@
 
 <p> A análise de dados é um processo de inspeção, limpeza, transformação e modelagem de dados com o objetivo de descobrir informações úteis, informar conclusões e apoiar a tomada de decisões.
   
+**Esse repositório contém estudos e projetos envolvendo a Análise de Dados  
+
+  
   
 ## Data
 <p> As bases de dados utilizadas nos notebooks, em sua maioria, foram adquiridas no [Kaggle](https://www.kaggle.com/datasets), que é uma comunidade on-line de cientistas de dados.
