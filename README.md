@@ -6,7 +6,7 @@
 
 <p> A análise de dados é um processo de inspeção, limpeza, transformação e modelagem de dados com o objetivo de descobrir informações úteis, informar conclusões e apoiar a tomada de decisões.
   
-**Esse repositório contém estudos e projetos envolvendo a Análise de Dados  
+**Esse repositório contém estudos e projetos envolvendo a Análise de Dados**  
 
   
   
