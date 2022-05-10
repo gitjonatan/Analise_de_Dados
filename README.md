@@ -13,7 +13,8 @@ Além disso, são aplicados algoritmos de machine learning e a "raspagem de dado
 
   
 ## Data
-<p> As bases de dados utilizadas nos notebooks, em sua maioria, foram adquiridas no [Kaggle](https://www.kaggle.com/datasets) , que é uma comunidade on-line de cientistas de dados.
+<p> As bases de dados utilizadas nos notebooks, em sua maioria, foram adquiridas no Kaggle, que é uma comunidade on-line de cientistas de dados.
+  [Kaggle](https://www.kaggle.com/datasets)
 
   
 ## Libraries:
